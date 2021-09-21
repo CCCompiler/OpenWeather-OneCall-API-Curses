@@ -9,7 +9,7 @@ from weather_map_class import WeatherOneCallAPI
 lat_c = str(47.684052)
 lon_c = str(17.635099)
 
-API_key = "9833e2889bbc43ab32f6365a7cfb4947"
+API_key = ""
 
 try:
     screen = curses.initscr()
